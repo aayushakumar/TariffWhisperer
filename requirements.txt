@@ -1,0 +1,8 @@
+gradio
+langchain
+faiss-cpu
+sentence-transformers
+beautifulsoup4
+requests
+pandas
+sqlite3
